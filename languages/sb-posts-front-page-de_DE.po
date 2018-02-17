@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SB Posts Front Page\n"
+"POT-Creation-Date: 2017-08-17 13:06+0200\n"
+"PO-Revision-Date: 2018-02-17 08:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sb-posts-front-page-old.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: sb-posts-front-page.php:48
+msgid "Number of posts on the front page"
+msgstr "Anzahl der Beiträge auf der Startseite"
+
+#. Plugin Name of the plugin/theme
+msgid "SB Posts Front Page"
+msgstr "SB Posts Front Page"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://svenbrier.com"
+msgstr "https://svenbrier.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Display a different number of posts on the front page than defined in "
+"\"<em>Settings › Reading › Blog pages show at most</em>\"."
+msgstr ""
+"Anzeige einer abweichenden Anzahl von Beiträgen auf der Startseite, als "
+"unter \"<em>Einstellungen › Lesen › Blogseiten zeigen maximal</em>\" "
+"definiert."
+
+#. Author of the plugin/theme
+msgid "Sven Brier"
+msgstr "Sven Brier"
