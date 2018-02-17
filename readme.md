@@ -17,7 +17,7 @@ Display a different number of posts on the front page than defined in "<em>Setti
 ## Installation
 
 Upload the plugin to your WordPress installation, activate it and choose the number of posts you want to be displayed at the front page.
-PHP >= 5.3 is required.
+PHP >= 7.1 is required.
 
 ## Changelog
 
